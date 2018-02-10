@@ -1,0 +1,13 @@
+.DS_Store
+/.idea
+/vendor
+/storage/app/public/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/bootstrap/cache
+/public/doc
+.phpunit.xml
+Homestead.json
+Homestead.yaml
+.env
